@@ -95,7 +95,7 @@ export const DATA = {
   education: [
     {
       school: "Bangladesh University of Business and Technology",
-      degree: "Bachelor's Degree of Computer Science (BCS)",
+      degree: "Bachelor's Degree of Computer Science & Engineering (CSE)",
       logoUrl: "/bubt.png",
       start: "2019",
       end: "2023",
