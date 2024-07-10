@@ -1,5 +1,5 @@
 import { Icons } from "@/components/icons";
-import { HomeIcon } from "lucide-react";
+import { Facebook, FacebookIcon, HomeIcon } from "lucide-react";
 
 export const DATA = {
   name: "Pallab Majumdar",
@@ -33,14 +33,18 @@ export const DATA = {
         name: "GitHub",
         url: "https://github.com/pallab99",
         icon: Icons.github,
-
         navbar: true,
       },
       LinkedIn: {
         name: "LinkedIn",
-        url: "https://dub.sh/dillion-linkedin",
+        url: "https://www.linkedin.com/in/pallab-majumdar?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
         icon: Icons.linkedin,
-
+        navbar: true,
+      },
+      Facebook: {
+        name: "Facebook",
+        url: "https://www.facebook.com/pallab.majumdar.99?mibextid=ZbWKwL",
+        icon: Icons.facebook,
         navbar: true,
       },
       email: {
