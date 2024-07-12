@@ -1,10 +1,10 @@
-import AboutSection from "@/components/about-section";
-import ContactSection from "@/components/contact-section";
-import EducationSection from "@/components/education-section";
-import HeroSection from "@/components/hero-section";
-import ProjectSection from "@/components/project-section";
-import SkillSection from "@/components/skill-section";
-import WorkSection from "@/components/work-section";
+import AboutSection from '@/components/about-section';
+import ContactSection from '@/components/contact-section';
+import EducationSection from '@/components/education-section';
+import HeroSection from '@/components/hero-section';
+import ProjectSection from '@/components/project-section';
+import SkillSection from '@/components/skill-section';
+import WorkSection from '@/components/work-section';
 
 export default function Page() {
   return (
