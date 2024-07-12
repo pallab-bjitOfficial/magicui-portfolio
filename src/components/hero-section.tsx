@@ -1,7 +1,8 @@
-import BlurFade from "@/components/magicui/blur-fade";
-import { DATA } from "@/data/resume";
-import BlurFadeText from "./magicui/blur-fade-text";
-import { Avatar, AvatarFallback, AvatarImage } from "./ui/avatar";
+import BlurFade from '@/components/magicui/blur-fade';
+import { DATA } from '@/data/resume';
+import BlurFadeText from './magicui/blur-fade-text';
+import { Avatar, AvatarFallback, AvatarImage } from './ui/avatar';
+import BoxReveal from './magicui/box-reveal';
 const BLUR_FADE_DELAY = 0.04;
 
 const HeroSection = () => {
@@ -14,7 +15,7 @@ const HeroSection = () => {
               delay={BLUR_FADE_DELAY}
               className="text-3xl font-bold tracking-tighter sm:text-5xl xl:text-6xl/none"
               yOffset={8}
-              text={`Hi, I'm ${DATA.name.split(" ")[0]} 👋`}
+              text={`Hi, I'm ${DATA.name.split(' ')[0]} 👋`}
             />
             <BlurFadeText
               className="max-w-[600px] md:text-xl"
