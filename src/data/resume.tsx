@@ -7,7 +7,7 @@ export const DATA = {
   location: 'Dhaka,Bangladesh',
   locationLink: 'https://www.google.com/maps/place/sanfrancisco',
   description:
-    'Software Engineer turned Entrepreneur. I love building things and helping people.',
+    'Highly Motivated Software Engineer. I love building things and helping people.',
   summary:
     'Motivated Software Engineer with over 1 year of experience at BJIT, demonstrating strong problem-solving skills and a solid foundation in software development. Former competitive programmer with a proven track record in algorithmic challenges, bringing a detail-oriented and efficient approach to coding and project execution. Committed to delivering high-quality software solutions and continuously enhancing technical expertise.',
   avatarUrl: '/pallab.jpg',
