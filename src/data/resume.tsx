@@ -163,8 +163,13 @@ export const DATA = {
       ],
       links: [
         {
-          type: 'Source',
-          href: 'https://github.com/pallab-BJIT/final-project-personal',
+          type: 'Client Code',
+          href: 'https://github.com/pallab99/e-learning-client-personal',
+          icon: <Icons.github className="size-3" />,
+        },
+        {
+          type: 'Server Code',
+          href: 'https://github.com/pallab99/e-learning-server-personal',
           icon: <Icons.github className="size-3" />,
         },
       ],
